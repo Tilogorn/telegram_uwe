@@ -2,8 +2,10 @@
 Telegram Bot for calculating beers
 
 ## Installin dev environment
+```
 sudo npm install -g serverless
 git clone https://github.com/Tilogorn/telegram_uwe.git
+```
 
 ## ToDo
 Following tutorial and read into serverless
